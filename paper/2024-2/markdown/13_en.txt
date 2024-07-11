@@ -1,0 +1,1 @@
+13.  Given that $\alpha$ is an angle in the first quadrant and $\beta$ is an angle in the third quadrant, with $\tan\alpha + \tan\beta = 4$ and $\tan\alpha \tan\beta = \sqrt{2} + 1$, then $\sin (\alpha + \beta) =$ ________.

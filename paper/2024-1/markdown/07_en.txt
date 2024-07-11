@@ -1,0 +1,5 @@
+7. When $x \in [0, 2\pi]$, the number of intersection points of the curves $y = \sin x$ and $y = 2\sin\left(3x - \frac{\pi}{6}\right)$ is ( )
+    - A. 3
+    - B. 4
+    - C. 6
+    - D. 8

@@ -1,0 +1,5 @@
+11. Given the function $f(x) = 2x^3 - 3ax^2 + 1$, then ( )
+    - A. When $a > 1$, $f(x)$ has three zeros
+    - B. When $a < 0$, $x = 0$ is a local maximum of $f(x)$
+    - C. There exist $a$ and $b$ such that $x = b$ is an axis of symmetry of the curve $y = f(x)$
+    - D. There exists $a$ such that the point $(1, f(1))$ is the center of symmetry of the curve $y = f(x)$

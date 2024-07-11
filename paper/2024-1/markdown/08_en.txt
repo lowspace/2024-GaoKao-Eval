@@ -1,0 +1,5 @@
+8. Given the function $f(x)$ defined on $\mathbb{R}$, $f(x) > f(x - 1) + f(x - 2)$, and when $x < 3$, $f(x) = x$, then which of the following statements is necessarily true? ( )
+    - A. $f(10) > 100$
+    - B. $f(20) > 1000$
+    - C. $f(10) < 100$
+    - D. $f(20) < 10000$

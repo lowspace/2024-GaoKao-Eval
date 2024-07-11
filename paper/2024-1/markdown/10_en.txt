@@ -1,0 +1,5 @@
+10. Given the function $f(x) = (x - 1)^2(x - 4)$, then ( )
+    - A. $x = 3$ is a local minimum of $f(x)$
+    - B. When $0 < x < 1$, $f(x) < f(x^2)$
+    - C. When $1 < x < 2$, $-4 < f(2x - 1) < 0$
+    - D. When $-1 < x < 0$, $f(2 - x) > f(x)$

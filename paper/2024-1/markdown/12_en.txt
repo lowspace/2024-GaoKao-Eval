@@ -1,0 +1,1 @@
+12. Given the hyperbola $C: \frac{x^2}{a^2} - \frac{y^2}{b^2} = 1$ $(a > 0, b > 0)$, with the left focus at $F_1$ and the right focus at $F_2$, a line parallel to the y-axis through $F_2$ intersects $C$ at points $A$ and $B$. If $|F_1 A| = 13$ and $|AB| = 10$, the eccentricity of $C$ is ________.

@@ -1,0 +1,5 @@
+2. 已知命题 $p: \forall x \in \mathbb{R}, |x + 1| > 1$，命题 $q: \exist x > 0, x^3 = x$，则 （ ）
+   - A. $p$ 和 $q$ 都是真命题
+   - B. $\neg p$ 和 $q$ 都是真命题
+   - C. $p$ 和 $\neg q$ 都是真命题
+   - D. $\neg p$ 和 $\neg q$ 都是真命题

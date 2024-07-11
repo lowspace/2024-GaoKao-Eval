@@ -1,0 +1,5 @@
+5. Given a cylinder and a cone with the same base radius and equal lateral surface area, and their heights are both $\sqrt{3}$, then the volume of the cone is ( )
+    - A. $2\sqrt{3}\pi$
+    - B. $3\sqrt{3}\pi$
+    - C. $6\sqrt{3}\pi$
+    - D. $9\sqrt{3}\pi$

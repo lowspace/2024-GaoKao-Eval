@@ -1,0 +1,5 @@
+11. Given that the conic section $C$ passes through the origin $O$, and the points on $C$ have x-coordinates greater than $-2$; the distance from any point on $C$ to the point $F(2,0)$ and the distance to the line $x = a$ $(a < 0)$ multiply to be 4. Then ( )
+    - A. $a = -2$
+    - B. The point $(2\sqrt{2}, 0)$ is on $C$
+    - C. The maximum y-coordinate of points on $C$ in the first quadrant is 1
+    - D. When the point $(x_0, y_0)$ is on $C$, $y_0 = \frac{4}{x_0 + 2}$

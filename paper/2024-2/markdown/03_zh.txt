@@ -1,0 +1,5 @@
+3. 已知向量 $\mathbf{a}, \mathbf{b}$ 满足 $| \mathbf{a} | = 1, | \mathbf{a} + 2 \mathbf{b} | = 2$，且$| \mathbf{b} - 2 \mathbf{a} | \perp \mathbf{b}$，则 $| \mathbf{b} | =$ （ ）
+   - A. $\frac{1}{2}$
+   - B. $\frac{\sqrt{2}}{2}$
+   - C. $\frac{\sqrt{3}}{2}$
+   - D. 1

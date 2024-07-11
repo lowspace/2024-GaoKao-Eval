@@ -1,0 +1,5 @@
+9. To understand the per acre income (unit: ten thousand yuan) after promoting exports, a sample is taken from the planting area, and the sample mean of the per acre income after promoting exports is $\bar{x} = 2.1$, with a sample variance of $S^2 = 0.01$. It is known that the previous per acre income $X$ of this planting area follows a normal distribution $N(1.8, 0.1^2)$, and it is assumed that the per acre income $Y$ after promoting exports follows a normal distribution $N(\bar{x}, S^2)$. Then ( )(If the random variable $Z$ follows a normal distribution $N(\mu, \sigma^2)$, then $P(Z < \mu + \sigma) \approx 0.8413$)
+    - A. $P(X > 2) > 0.2$
+    - B. $P(X > 2) < 0.5$
+    - C. $P(Y > 2) > 0.5$
+    - D. $P(Y > 2) < 0.8$

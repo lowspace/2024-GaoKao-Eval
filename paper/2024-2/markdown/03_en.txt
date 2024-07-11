@@ -1,0 +1,5 @@
+3. Given vectors $\mathbf{a}$ and $\mathbf{b}$ satisfying $| \mathbf{a} | = 1$, $| \mathbf{a} + 2 \mathbf{b} | = 2$, and $| \mathbf{b} - 2 \mathbf{a} | \perp \mathbf{b}$, then $| \mathbf{b} | =$ ( )
+   - A. $\frac{1}{2}$
+   - B. $\frac{\sqrt{2}}{2}$
+   - C. $\frac{\sqrt{3}}{2}$
+   - D. $1$

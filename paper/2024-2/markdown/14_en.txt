@@ -1,0 +1,7 @@
+14.  In the following $4 \times 4$ grid, select 4 cells such that there is exactly one cell selected from each row and each column. There are ________ ways to make such a selection; among all these ways, the maximum sum of the numbers in the selected cells is ________.
+
+| 11 | 21 | 31 | 40 |
+|----|----|----|----|
+| 12 | 22 | 33 | 42 |
+| 13 | 22 | 33 | 43 |
+| 15 | 24 | 34 | 44 |

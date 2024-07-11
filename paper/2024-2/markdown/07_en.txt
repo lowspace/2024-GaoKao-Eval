@@ -1,0 +1,5 @@
+7. Given a regular triangular frustum $ABC - A_1B_1C_1$ with a volume of $\frac{52}{3}$, $AB = 6$, and $A_1B_1 = 2$, the tangent of the angle between $A_1A$ and the plane $ABC$ is ( )
+   - A. $\frac{1}{2}$
+   - B. $1$
+   - C. $2$
+   - D. $3$

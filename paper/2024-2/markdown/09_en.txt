@@ -1,0 +1,5 @@
+9. For the functions $f(x) = \sin 2x$ and $g(x) = \sin \left( 2x - \frac{\pi}{4} \right)$, which of the following statements are correct? ( )
+   - A. $f(x)$ and $g(x)$ have the same zeros
+   - B. $f(x)$ and $g(x)$ have the same maximum value
+   - C. $f(x)$ and $g(x)$ have the same minimum positive period
+   - D. The graphs of $f(x)$ and $g(x)$ have the same axis of symmetry

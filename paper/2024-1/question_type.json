@@ -1,0 +1,17 @@
+{
+    "1": 
+    {
+        "en": "## Part I: Multiple Choice Questions\n\nEach question has four options, and only one of them is correct.",
+        "zh": "## 一、选择题\n\n每小题给出的四个选项中，只有一个选项是正确的。"
+    },
+    "2":
+    {
+        "en": "## Part II: Multiple Choice Questions\n\nEach question has four options, and more than one of them may be correct.",
+        "zh": "### 二、选择题\n\n每小题给出的四个选项中，有多项符合题目要求。"
+    },
+    "3":
+    {
+        "en": "## Part III: Fill in the Blanks",
+        "zh": "## 三、填空题"
+    }
+}

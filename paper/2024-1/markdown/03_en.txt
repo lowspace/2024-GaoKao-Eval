@@ -1,0 +1,5 @@
+3. Given the vectors $\boldsymbol{a} = (0,1)$ and $\boldsymbol{b} = (2,x)$, if $\boldsymbol{b} \perp \left( \boldsymbol{b} - 4 \boldsymbol{a} \right)$, then $x =$ ( )
+    - A. $-2$
+    - B. $-1$
+    - C. $1$
+    - D. $2$

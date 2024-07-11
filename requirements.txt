@@ -1,0 +1,13 @@
+openai
+mathplotlib
+pandas
+jupyter
+qianfa
+sparkain
+cohere
+anthropic
+google-auth\npip
+request
+latex2sympy2
+sympy
+tqdm

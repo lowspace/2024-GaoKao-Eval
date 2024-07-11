@@ -1,0 +1,11 @@
+6. Given the function 
+$f(x) = 
+\begin{cases} 
+-x^2 - 2ax - a, & x < 0 \\ 
+e^x + \ln(x + 1), & x \geq 0 
+\end{cases}$
+is monotonically increasing on $\mathbb{R}$, the range of $a$ is ( )
+    - A. $(-\infty, 0]$
+    - B. $[-1, 0]$
+    - C. $[-1, 1]$
+    - D. $[0, +\infty)$

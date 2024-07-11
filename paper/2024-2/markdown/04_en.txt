@@ -1,0 +1,10 @@
+4. An agricultural research department planted new rice varieties in $100$ equal-sized fields and recorded the per acre yield (in kilograms) for each field. The data is partially summarized in the following table:
+   | Yield per acre | $[900, 950)$ | $[950, 1000)$ | $[1000, 1050)$ | $[1050, 1100)$ | $[1100, 1150)$ | $[1150, 1200)$ |
+   | --- | --- | --- | --- | --- | --- | --- |
+   | Frequency | $6$ | $12$ | $18$ | $24$ | $18$ | $10$ |
+
+   Based on the data in the table, which of the following conclusions is correct? ( )
+   - A. The median yield per acre for the $100$ fields is less than $1050$ kilograms
+   - B. More than $80\%$ of the fields have yields per acre less than $1000$ kilograms
+   - C. The range of the yields per acre for the $100$ fields is between $200$ kilograms and $300$ kilograms
+   - D. The average yield per acre for the $100$ fields is between $900$ kilograms and $1000$ kilograms

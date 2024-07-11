@@ -1,0 +1,5 @@
+8. Let the function $f(x) = (x + a) \ln (x + b)$. If $f(x) \geq 0$, the minimum value of $a^2 + b^2$ is ( )
+   - A. $\frac{1}{8}$
+   - B. $\frac{1}{4}$
+   - C. $\frac{1}{2}$
+   - D. $1$

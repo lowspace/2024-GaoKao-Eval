@@ -1,0 +1,1 @@
+12.  Let $\{S_n\}$ be the sum of the first $n$ terms of an arithmetic sequence $\{a_n\}$. If $a_3 + a_4 = 7$ and $3a_2 + a_5 = 5$, then $S_{10} =$ ________.

@@ -1,0 +1,5 @@
+2. Given the propositions $p: \forall x \in \mathbb{R}, |x + 1| > 1$ and $q: \exist x > 0, x^3 = x$, then ( )
+   - A. Both $p$ and $q$ are true
+   - B. Both $\neg p$ and $q$ are true
+   - C. Both $p$ and $\neg q$ are true
+   - D. Both $\neg p$ and $\neg q$ are true

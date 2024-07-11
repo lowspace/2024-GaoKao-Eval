@@ -1,0 +1,5 @@
+4. 已知 $\cos(\alpha + \beta) = m$，$\tan\alpha \tan\beta = 2$，则 $\cos(\alpha - \beta) =$（ ）
+    - A. $-3m$
+    - B. $-\frac{m}{3}$
+    - C. $\frac{m}{3}$
+    - D. $3m$

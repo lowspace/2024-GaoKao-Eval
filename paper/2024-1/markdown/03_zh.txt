@@ -1,0 +1,5 @@
+3. 已知向量 $\boldsymbol{a} = (0,1)$，$\boldsymbol{b} = (2,x)$，若 $\boldsymbol{b} \perp \left( \boldsymbol{b} - 4 \boldsymbol{a} \right)$，则 $x =$（ ）
+    - A. $-2$
+    - B. $-1$
+    - C. $1$
+    - D. $2$

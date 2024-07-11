@@ -1,0 +1,1 @@
+13. If the tangent line to the curve $y = e^x + x$ at the point $(0,1)$ is also the tangent line to the curve $y = \ln(x + 1) + a$, then $a = $ ________.

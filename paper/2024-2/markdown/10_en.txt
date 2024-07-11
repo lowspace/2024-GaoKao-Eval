@@ -1,0 +1,5 @@
+10. The directrix of the parabola $C: y^2 = 4x$ is $l$. $P$ is a moving point on $C$. A tangent to the circle $\bigodot A: x^2 + (y - 4)^2 = 1$ is drawn at $P$, with $Q$ being the point of tangency. A perpendicular is drawn from $P$ to $l$, with $B$ being the foot of the perpendicular. Then ( )
+    - A. $l$ is tangent to $\bigodot A$
+    - B. When $P$, $A$, and $B$ are collinear, $|PQ| = \sqrt{15}$
+    - C. When $|PB| = 2$, $PA \perp AB$
+    - D. There are exactly 2 points $A$ such that $|PA| = |PB|$

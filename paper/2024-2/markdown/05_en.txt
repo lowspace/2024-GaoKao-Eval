@@ -1,0 +1,5 @@
+5. Given the curve $C: x^2 + y^2 = 16 (y > 0)$, from any point $P$ on $C$, a perpendicular segment $PP'$ is drawn to the $x$-axis, with $P'$ being the foot of the perpendicular. The equation of the locus of the midpoint $M$ of segment $PP'$ is ( )
+   - A. $\frac{x^2}{16} + \frac{y^2}{4} = 1 (y > 0)$
+   - B. $\frac{x^2}{16} + \frac{y^2}{8} = 1 (y > 0)$
+   - C. $\frac{y^2}{16} + \frac{x^2}{4} = 1 (y > 0)$
+   - D. $\frac{y^2}{16} + \frac{x^2}{8} = 1 (y > 0)$

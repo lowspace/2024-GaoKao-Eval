@@ -1,0 +1,1 @@
+13.  已知 $\alpha$ 为第一象限角，$\beta$ 为第三象限角，$\tan\alpha + \tan\beta = 4, \tan\alpha \tan\beta = \sqrt{2} + 1$，则 $\sin (\alpha + \beta) =$ ________.
